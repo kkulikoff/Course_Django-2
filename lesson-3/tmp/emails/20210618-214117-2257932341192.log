@@ -1,0 +1,11 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: Account verify
+From: django@gb.local
+To: qwerty@qwerty.ru
+Date: Fri, 18 Jun 2021 18:41:17 -0000
+Message-ID: <162404167781.6400.61284977815010891@LAPTOP-CUCSULFK>
+
+Your account activation: http://localhost:8000/auth/verify/qwerty@qwerty.ru/4f6f5c4289878aa06bdabcdc0bb28c0620174692/
+-------------------------------------------------------------------------------

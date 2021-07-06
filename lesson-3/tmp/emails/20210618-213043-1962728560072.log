@@ -1,0 +1,11 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: Account verify
+From: webmaster@localhost
+To: qwerty@qwerty.ry
+Date: Fri, 18 Jun 2021 18:30:43 -0000
+Message-ID: <162404104363.2088.3082299094881829911@LAPTOP-CUCSULFK>
+
+Your account activation: http://localhost:8000/auth/verify/qwerty@qwerty.ry/12a5ac2a551cff6f8b71c93c7d80009deae115d2/
+-------------------------------------------------------------------------------
