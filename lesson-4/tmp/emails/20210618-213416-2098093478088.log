@@ -1,0 +1,11 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: Account verify
+From: django@gb.local
+To: asdf@asdf.ru
+Date: Fri, 18 Jun 2021 18:34:16 -0000
+Message-ID: <162404125626.3564.3278447272215774539@LAPTOP-CUCSULFK>
+
+Your account activation: http://localhost:8000/auth/verify/asdf@asdf.ru/7a28f5adebbe274d30d47f1b1ff01e1cd8a56061/
+-------------------------------------------------------------------------------
