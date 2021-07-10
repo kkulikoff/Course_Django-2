@@ -1,0 +1,11 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: Account verify
+From: webmaster@localhost
+To: qewrrr@ga.local
+Date: Fri, 18 Jun 2021 18:23:28 -0000
+Message-ID: <162404060847.3676.11585657499484604994@LAPTOP-CUCSULFK>
+
+Your account activation: http://localhost:8000/auth/verify/qewrrr@ga.local/8b3cc46dd0c63d968048c5d4de0dce08bfbca695/
+-------------------------------------------------------------------------------
